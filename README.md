@@ -1,6 +1,8 @@
 # Jot Wiki
 
-Jot Wiki is a simple demo app for [Jot](http://github.com/boutell/jot). 
+## DEPRECATED! PLEASE SEE [Apostrophe](http://github.com/punkave/apostrophe)
+
+Jot Wiki was a simple demo app for Jot, which evolved into the core of Apostrophe 2. Jot has been retired. Kept for now for historical interest.
 
 ## Installation
 
